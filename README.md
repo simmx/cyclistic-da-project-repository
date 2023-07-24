@@ -1,4 +1,4 @@
-# Cyclistic Bike-Sharing Data Analysis Case Study
+# Cyclistic Bike-Sharing Data Analysis Project
 
 ### About Cyclistic
 
